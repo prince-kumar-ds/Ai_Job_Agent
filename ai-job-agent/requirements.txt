@@ -12,6 +12,6 @@ numpy
 sentence-transformers
 torch
 
-
-langchain
-langchain-google-genai==1.0.3
+pydantic==1.10.13
+langchain==0.0.350
+langchain-google-genai==0.0.5
