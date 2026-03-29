@@ -3,7 +3,6 @@ streamlit
 # Core
 python-dotenv
 requests
-
 pdfplumber
 
 scikit-learn
@@ -12,6 +11,8 @@ numpy
 sentence-transformers
 torch
 
+# Fix versions
 pydantic==1.10.13
 langchain==0.0.350
-langchain-google-genai==0.0.5
+langchain-google-genai==0.0.3
+google-generativeai==0.3.2
