@@ -3,7 +3,6 @@ streamlit
 # Core
 python-dotenv
 requests
-os
 
 pdfplumber
 
