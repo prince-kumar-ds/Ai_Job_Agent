@@ -14,4 +14,4 @@ torch
 
 
 langchain
-langchain-google-genai
+langchain-google-genai==1.0.3
