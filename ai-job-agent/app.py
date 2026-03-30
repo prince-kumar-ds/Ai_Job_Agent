@@ -216,3 +216,15 @@ if st.session_state["results"]:
 # ========================
 else:
     st.info("👈 Upload resume and click 'Search Jobs' to begin")
+
+
+
+# ── FOOTER ────────────────────────────────────────────────────────
+st.markdown("""
+<div style="text-align:center; padding: 16px 0 8px 0; color:#94a3b8; font-size:13px;">
+    Built by <b style="color:#f97316">Prince Kumar</b> · Ai/Ml Enthusiast · 📞 9971287050<br>
+    <a href="https://www.linkedin.com/in/prince-datascientist" target="_blank" style="color:#f97316; text-decoration:none;">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://github.com/prince-kumar-ds" target="_blank" style="color:#f97316; text-decoration:none;">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://github.com/prince-kumar-ds/99_Acers" target="_blank" style="color:#f97316; text-decoration:none;">Project Repo</a>
+</div>
+""", unsafe_allow_html=True)
