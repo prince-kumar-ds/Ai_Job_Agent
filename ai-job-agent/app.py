@@ -225,5 +225,4 @@ st.markdown("""
     Built by <b style="color:#f97316">Prince Kumar</b> · Ai/Ml Enthusiast · 📞 9971287050<br>
     <a href="https://www.linkedin.com/in/prince-datascientist" target="_blank" style="color:#f97316; text-decoration:none;">LinkedIn</a> &nbsp;·&nbsp;
     <a href="https://github.com/prince-kumar-ds" target="_blank" style="color:#f97316; text-decoration:none;">GitHub</a> &nbsp;·&nbsp;
-/div>
 """, unsafe_allow_html=True)
